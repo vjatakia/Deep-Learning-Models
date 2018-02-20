@@ -3,6 +3,12 @@ This repository includes a set of various Deep learning models ranging from the 
 
 The datasets used here is the MNIST dataset available in the Tensorflow library
 
-The models are: <br>
-1. Fully Connected Deep Neural Network <br>
-2.RNN Model
+Description of files: 
+
+1. tf1 : A simple example of fully connected deep neural network using the MNIST dataset
+
+2. tf_sentiment_analysis: Sentiment Analysis using the NLTK library and Tensorflow on the set of tweets. 
+
+3. tf_RNN : RNN implementation using the MNIST Dataset
+
+
