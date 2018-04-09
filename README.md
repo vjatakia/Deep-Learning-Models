@@ -11,4 +11,8 @@ Description of files:
 
 3. tf_RNN : RNN implementation using the MNIST Dataset
 
+4. tf_CNN : CNN implementation using the MNIST Dataset
+
+5. tflearn_demo : CNN implementation on MNIST Dataset using tflearn library
+
 
